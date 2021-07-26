@@ -1,3 +1,4 @@
+import 'package:admin/cse/cse.dart';
 import 'package:admin/models/image_links.dart';
 import 'package:admin/pages/firstyear_upload.dart';
 import 'package:flutter/material.dart';
@@ -60,7 +61,10 @@ class _AcademicsState extends State<Academics> {
 
           //computer
           GestureDetector(
-            onTap: () async {},
+            onTap: () async {
+              Navigator.of(context)
+                  .push(MaterialPageRoute(builder: (context) => CseNotes()));
+            },
             child: Container(
               decoration: BoxDecoration(
                 color: Theme.of(context).accentColor,
