@@ -1,6 +1,3 @@
-import 'package:admin/cse/cse_final.dart';
-import 'package:admin/cse/cse_second.dart';
-import 'package:admin/cse/cse_third.dart';
 import 'package:admin/mechanical/mech_final.dart';
 import 'package:admin/mechanical/mech_second.dart';
 import 'package:admin/mechanical/mech_third.dart';

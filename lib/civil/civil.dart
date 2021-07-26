@@ -1,9 +1,6 @@
 import 'package:admin/civil/civil_final.dart';
 import 'package:admin/civil/civil_second.dart';
 import 'package:admin/civil/civil_third.dart';
-import 'package:admin/cse/cse_final.dart';
-import 'package:admin/cse/cse_second.dart';
-import 'package:admin/cse/cse_third.dart';
 import 'package:flutter/material.dart';
 
 import 'package:velocity_x/velocity_x.dart';

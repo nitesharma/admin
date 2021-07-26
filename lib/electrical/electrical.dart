@@ -1,6 +1,3 @@
-import 'package:admin/cse/cse_final.dart';
-import 'package:admin/cse/cse_second.dart';
-import 'package:admin/cse/cse_third.dart';
 import 'package:admin/electrical/elec_final.dart';
 import 'package:admin/electrical/elec_third.dart';
 import 'package:admin/electrical/electrical_second.dart';
